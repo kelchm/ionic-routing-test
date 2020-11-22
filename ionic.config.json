@@ -1,0 +1,7 @@
+{
+  "name": "show-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
